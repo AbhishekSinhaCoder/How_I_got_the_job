@@ -48,4 +48,3 @@ In the next few months, I started applying to many companies methods through unu
 
 After few weeks I got a call from the company. There was a simple interview regarding my current internship and my past projects. Afterwards, they reviewed my LinkedIn, GitHub and I got the job offer the very next day.
 
-<------------------------------------------------------------------------THE END------------------------------------------------------------------------>
